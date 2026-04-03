@@ -4,7 +4,7 @@
 
 ## 🌐 Ver mi portafolio
 
-**https://seleneinmaculada.github.io**
+**https://seleneinmaculada.github.io/Porfolio/**
 
 Aquí podrás ver:
 - Mi experiencia y formación
