@@ -335,7 +335,24 @@
     </footer>
 
     <script>
+        let scrollPosition = 0;
+        
+        // Guardar posición del scroll antes de enviar
+        document.addEventListener('submit', function(e) {
+            if (e.target.id === 'contact-form') {
+                scrollPosition = window.scrollY;
+            }
+        }, true);
+
+        // Inicializar Formspree
         formspree('initForm', { formElement: '#contact-form', formId: 'xkopqopl' });
+        
+        // Restaurar posición del scroll después de enviar
+        window.addEventListener('fs:submit:response', function() {
+            setTimeout(() => {
+                window.scrollTo(0, scrollPosition);
+            }, 100);
+        });
     </script>
     <script src="js/script.js"></script>
 </body>
