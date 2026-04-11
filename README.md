@@ -1,66 +1,95 @@
-# 🌟 Portafolio Web - Selene García Chacón
+# Selene García Chacón — Web Developer Portfolio
 
-¡Bienvenido/a a mi portafolio web! Este repositorio contiene el código fuente de mi sitio web personal como **Desarrolladora Web Junior** especializada en desarrollo web, videojuegos y IA.
+<div align="center">
 
-## 🌐 Ver mi portafolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge)](https://seleneinmaculada.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seleneinmaculadagarciachacon)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/SeleneInmaculada)
 
-**https://seleneinmaculada.github.io/Portfolio/**
-
-Aquí podrás ver:
-- Mi experiencia y formación
-- Proyectos destacados (web y videojuegos)
-- Habilidades técnicas
-- Información de contacto
-
-## 📖 Sobre mí
-
-Desarrolladora web junior con formación en DAW y Especialización en Videojuegos y Realidad Virtual. He participado en proyectos reales aplicando tecnologías front-end, back-end y desarrollo de videojuegos con Unity.
-
-## 🛠️ Tecnologías del sitio
-
-- **HTML5** - Estructura semántica
-- **CSS3** - Diseño responsivo
-- **JavaScript** - Interactividad
-- **Google Fonts** & **Font Awesome**
-
-## 📱 Características
-
-- Diseño moderno y profesional
-- Completamente responsivo
-- Navegación suave
-- Animaciones de entrada
-- Formulario de contacto
-
-## 📞 Contacto
-
-- **Email**: selene.inmaculada@gmail.com
-- **LinkedIn**: [linkedin.com/in/seleneinmaculadagarciachacon](https://linkedin.com/in/seleneinmaculadagarciachacon)
-- **GitHub**: [github.com/SeleneInmaculada](https://github.com/SeleneInmaculada)
+</div>
 
 ---
 
-## 🚀 Instrucciones de despliegue (para mí)
+## 🌐 Live Site
 
-Si necesitas volver a desplegar o modificar el sitio:
+**[https://seleneinmaculada.github.io/Portfolio/](https://seleneinmaculada.github.io/Portfolio/)**
 
-### Crear repositorio
-1. Ir a GitHub y crear `SeleneInmaculada.github.io`
-2. Subir estos archivos al repositorio
+---
 
-### Activar GitHub Pages
-1. Ir a Settings → Pages
-2. Seleccionar "Deploy from a branch"
-3. Branch: main, Folder: /(root)
-4. Save
+## About
 
-### Acceder al sitio
-El sitio estará en: `https://seleneinmaculada.github.io`
+I'm a **Junior Web Developer** with a background in Web Application Development (DAW) and a specialization in **Video Games and Virtual Reality**. I have hands-on experience building real-world projects across front-end, back-end, and game development with Unity.
 
-### Estructura de archivos
+My portfolio showcases:
+- Professional experience and education
+- Featured projects in web development and video games
+- Technical skills and toolset
+- Contact information
+
+---
+
+## 🛠️ Built With
+
+| Technology | Purpose |
+|-----------|---------|
+| **HTML5** | Semantic structure |
+| **CSS3** | Responsive design |
+| **JavaScript** | Interactivity & logic |
+| **Google Fonts** | Typography |
+| **Font Awesome** | Icons |
+
+---
+
+## ✨ Features
+
+- Clean, modern and professional design
+- Fully responsive across all devices
+- Smooth scroll navigation
+- Entrance animations
+- Contact form
+
+---
+
+## 📁 Project Structure
+
 ```
-├── index.html      # Página principal
-├── css/styles.css  # Estilos
-├── js/script.js    # JavaScript
-├── images/         # Imágenes
-└── README.md       # Este archivo
+├── index.html        # Main page
+├── css/
+│   └── styles.css    # Styles
+├── js/
+│   └── script.js     # JavaScript
+├── images/           # Assets
+└── README.md         # This file
 ```
+
+---
+
+## 🚀 Deployment
+
+> 📝 **Personal reference** — This section is a reminder for myself on how to deploy or re-deploy the site.
+
+This site is hosted via **GitHub Pages**.
+
+### Initial setup
+
+1. Create a repository named `SeleneInmaculada.github.io` on GitHub
+2. Push all files to the `main` branch
+
+### Enable GitHub Pages
+
+1. Go to **Settings → Pages**
+2. Under *Source*, select **Deploy from a branch**
+3. Set branch to `main`, folder to `/ (root)`
+4. Click **Save**
+
+The site will be live at `https://seleneinmaculada.github.io`
+
+---
+
+## 📬 Contact
+
+| Channel | Link |
+|--------|------|
+| Email | selene.inmaculada@gmail.com |
+| LinkedIn | [linkedin.com/in/seleneinmaculadagarciachacon](https://linkedin.com/in/seleneinmaculadagarciachacon) |
+| GitHub | [github.com/SeleneInmaculada](https://github.com/SeleneInmaculada) |
